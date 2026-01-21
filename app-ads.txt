@@ -1,0 +1,8 @@
+# AdMob
+google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0986fa0
+
+# AppLovin
+applovin.com, YOUR_ACCOUNT_ID, DIRECT
+
+# Mintegral
+mintegral.com, YOUR_PUBLISHER_ID, DIRECT, 0aeed123c80d6423
