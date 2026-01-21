@@ -1,3 +1,6 @@
+# Unity Ads
+unity3d.com, YOUR_ORGANIZATION_CORE_ID, DIRECT
+
 # AdMob
 google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0986fa0
 
