@@ -2,7 +2,7 @@
 unity3d.com, YOUR_ORGANIZATION_CORE_ID, DIRECT
 
 # AdMob
-google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0986fa0
+google.com, pub-4599548630381088, DIRECT, f08c47fec0942fa0
 
 # AppLovin
 applovin.com, YOUR_ACCOUNT_ID, DIRECT
